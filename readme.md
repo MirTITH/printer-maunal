@@ -8,9 +8,11 @@
 
 [禁止Windows自动断开没网的wifi - DayDayUp - HYLUZ](https://www.hyluz.cn/post/55143.html)
 
-## 安装驱动
+## 卸载系统自带驱动
 
-不要使用系统自动安装的驱动（很烂）
+打开设置-设备-打印机和扫描仪，删除类似于 EPSON L3250 Series 的设备
+
+## 安装驱动
 
 驱动下载页面：[服务与支持页面_驱动下载_耗材选件 - 爱普生中国 (epson.com.cn)](https://www.epson.com.cn/services/supportproduct.html?p=54ac0d25a9f8490294c6ae7a9f8bd77d&tab=1)
 
